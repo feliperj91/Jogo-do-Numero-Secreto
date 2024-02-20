@@ -109,3 +109,70 @@ button {
     font-size: 32px;
     font-weight: 400;
 }
+
+
+@media (max-width: 900px){
+	
+	.body{
+		display: flex;
+		background-repeat: no-repeat;
+		
+		
+	}
+	
+	.container{
+		display: flex;
+		flex-direction: column;
+		width: 100%;
+		
+		
+		
+		
+	}
+	
+	h1 {
+		margin: 20px 0px 0px 0px;
+		font-size: 1.7rem;
+		
+		
+	}
+	
+	.container__texto{
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		
+		
+		
+	}
+	
+	.container__informacoes{
+		
+		
+		
+		
+	}
+	
+	.container__imagem-pessoa{
+		width: 20rem;
+		
+	}
+	
+	.container__conteudo {
+		width: 100%;
+		
+	}
+	
+
+	
+	
+	
+	.texto__paragrafo{
+		font-size: 1.4rem;
+		
+		
+		
+	}
+	
